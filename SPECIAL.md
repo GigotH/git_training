@@ -5,3 +5,11 @@ Version control is an essential skill for developers to master, and Git is by fa
 # GIT commands
 Create a new branch:
 git switch -c newbranchname
+
+
+Run the command to set remote access via a token
+
+git remote set-url origin https://username:token@github.com/username/repository.git
+Example:
+
+git remote set-url origin https://GigotH:a7b19929***58fe65d1c@github.com/GigotH/git_training.git
