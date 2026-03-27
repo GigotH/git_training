@@ -77,7 +77,7 @@ Click the image below to go to the Rocket Sloth Co website:
 
 For inline code use `back-ticks` surrounding the code.
 
-```
+```bash
 #!/usr/bin/bash
 # this is a code block
 HOST=$(hostname)
